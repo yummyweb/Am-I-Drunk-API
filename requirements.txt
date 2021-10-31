@@ -1,0 +1,35 @@
+backports.entry-points-selectable==1.1.0
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1631636293358/work
+chardet @ file:///Users/runner/miniforge3/conda-bld/chardet_1610093454858/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1626371162869/work
+click==8.0.3
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+conda==4.10.3
+conda-package-handling @ file:///Users/runner/miniforge3/conda-bld/conda-package-handling_1618231726924/work
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1633983374178/work
+distlib==0.3.3
+filelock==3.3.2
+Flask==2.0.2
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1609836280497/work
+itsdangerous==2.0.1
+Jinja2==3.0.2
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1633637554808/work
+MarkupSafe==2.0.1
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1634853249489/work
+platformdirs==2.4.0
+pycosat @ file:///Users/runner/miniforge3/conda-bld/pycosat_1624996792650/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1633192417276/work
+PySocks @ file:///Users/runner/miniforge3/conda-bld/pysocks_1610291460269/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1626393743643/work
+ruamel-yaml-conda @ file:///Users/runner/miniforge3/conda-bld/ruamel_yaml_1624999868738/work
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1635241015035/work
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1633644994244/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1633102299089/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1632160078689/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1632350318291/work
+virtualenv==20.9.0
+Werkzeug==2.0.2
